@@ -2459,6 +2459,7 @@ a {
 
 a:hover {
   text-decoration: none;
+  color: blue;
 }
 
 a:focus {
@@ -2485,7 +2486,7 @@ html {
 }
 
 body {
-  background-color: #fff;
+  margin: 20px;
 }
 
 a {
